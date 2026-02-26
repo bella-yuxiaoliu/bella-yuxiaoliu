@@ -1,7 +1,7 @@
 # Yuxiao Liu | Data Analyst 
 
 ## About Me
-Data Analyst focused on **finance and e-commerce analytics**, building **SQL + Python** pipelines and **BI dashboards** for **revenue reporting, KPI tracking, and automation**.  
+Data Analyst focused on **finance and e-commerce analytics**, building **SQL + Python** pipelines and **BI dashboards** for revenue reporting, KPI tracking, and automation.  
 M.S. in Applied Data Science candidate at USC (Expected May 2026), with strengths in **ETL, data quality, UAT validation, and experiment-driven insights**.  
 Outside of work: tennis🎾 and arts🎨.
 
@@ -22,22 +22,22 @@ Processed **200K+ procurement/shipment records** to improve efficiency (10+ hrs/
 ---
 
 ## Education
-- **M.S. in Applied Data Science**, University of Southern California (Expected May 2026)  
+🎓**M.S. in Applied Data Science**, University of Southern California
   *Related Courses:* Data Management, Data Visualization, Machine Learning, Data Mining
 
-- **M.S. in Applied Economics & Econometrics**, University of Southern California  
+🎓**M.S. in Applied Economics & Econometrics**, University of Southern California  
   *Related Courses:* Economic Consulting, Modeling and Operations Research, Practice of Econometrics, Applied Trade Policy
 
-- **B.A. in Quantitative Economics**, University of California, Irvine  
+🎓**B.A. in Quantitative Economics**, University of California, Irvine  
   *Related Courses:* Linear Algebra, Probability and Statistics, Money and Banking, Economics of Asymmetric Information
 
-- **B.A. in Art**, University of California, Irvine  
+🎓**B.A. in Art**, University of California, Irvine 
   *Related Courses:* Advanced Painting, Sculpture, Media Art & Tech, History of Contemporary Art
   
 ---
 
 ## Current Focus 
-- Interested in **Data Analyst, Business Analyst, Financial Analyst** or any related roles supporting finance, e-commerce, and revenue performance teams.
+Interested in **Data Analyst, Business Analyst, Financial Analyst** or any related roles supporting finance, e-commerce, and revenue performance teams.
 
 ---
 
