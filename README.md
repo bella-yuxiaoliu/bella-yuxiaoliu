@@ -31,8 +31,8 @@ Processed **200K+ procurement/shipment records** to improve efficiency (10+ hrs/
 🎓**B.A. in Quantitative Economics**, University of California, Irvine  
   *Related Courses:* Linear Algebra, Probability and Statistics, Money and Banking, Economics of Asymmetric Information
 
-🎓**B.A. in Art**, University of California, Irvine 
-  *Related Courses:* Advanced Painting, Sculpture, Media Art & Tech, History of Contemporary Art
+🎓**B.A. in Art**, University of California, Irvine  
+  *Related Courses:* Advanced Painting, Sculpture, Media Art & Tech, History of Contemporary Art  
   
 ---
 
@@ -42,5 +42,5 @@ Interested in **Data Analyst, Business Analyst, Financial Analyst** or any relat
 ---
 
 ## Contact
-- **Email:** bella.yuxiaoliu@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/yuxiao-liu-05b814183/
+**Email:** bella.yuxiaoliu@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/yuxiao-liu-05b814183/
