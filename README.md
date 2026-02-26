@@ -16,8 +16,8 @@ Outside of work: tennis🎾 and arts🎨.
 ---
 
 ## Experience Highlights
-Delivered measurable impact across **finance and e-commerce analytics** by building **SQL + Python (Pandas) pipelines** and **Power BI/Tableau dashboards** that improved reporting reliability and reduced manual effort.  
-Processed **200K+ procurement/shipment records** to improve efficiency (**-20% processing time**, **10+ hrs/week saved**) and standardized **10K+ weekly ERP sales records across 300+ SKUs** (**3+ hrs/week saved**).  
+Delivered measurable impact across finance and e-commerce analytics by building **SQL + Python (Pandas) pipelines** and **Power BI/Tableau dashboards** that improved reporting reliability and reduced manual effort.  
+Processed **200K+ procurement/shipment records** to improve efficiency (10+ hrs/week saved) and standardized **10K+ weekly ERP sales records across 300+ SKUs** (3+ hrs/week saved).  
 
 ---
 
@@ -43,4 +43,4 @@ Processed **200K+ procurement/shipment records** to improve efficiency (**-20% p
 
 ## Contact
 - **Email:** bella.yuxiaoliu@gmail.com  
-- **LinkedIn:** *[(paste your LinkedIn URL here)](https://www.linkedin.com/in/yuxiao-liu-05b814183/)*
+- **LinkedIn:** https://www.linkedin.com/in/yuxiao-liu-05b814183/
