@@ -1,29 +1,48 @@
-# Yuxiao (Bella) Liu | Data Analyst
+# Yuxiao Liu | Data Analyst 
 
-## What I do
-I build **SQL + Python** analytics pipelines and **BI dashboards** that turn messy operational data into **reliable reporting, automation, and measurable business impact**.  
-Recent work spans **ERP / procurement / sales ops / finance analytics / compliance QA**.
+## About Me
+Data Analyst focused on **finance and e-commerce analytics**, building **SQL + Python** pipelines and **BI dashboards** for **revenue reporting, KPI tracking, and automation**.  
+**M.S. in Applied Data Science candidate at USC (Expected May 2026)**, with strengths in **ETL, data quality, UAT validation, and experiment-driven insights**.  
+Outside of work: tennis🎾 and arts🎨.
 
-## Impact Highlights (selected)
-- **ERP Procurement Analytics (200K+ records):** Built SQL + Pandas pipeline for purchase orders & shipment records → **-20% processing time**, **10+ hrs/week saved**
-- **Data Quality / UAT Validation:** Designed validation framework → **-15% mapping errors**, prevented **6+ hrs/week** repetitive corrections
-- **Supplier Workflow Experimentation:** Ran A/B tests on supplier engagement workflows → **+12% response rate**, reduced manual review **10+ hrs/week**
-- **Sales Ops ETL (10K+ weekly, 300+ SKUs):** Cleaned & standardized ERP sales data via SQL + Python → **3+ hrs/week saved**
-- **BI Dashboards (Tableau / Power BI):** Automated KPI reporting → **5+ hrs/week saved** on weekly meeting prep; improved cross-team visibility
-- **Compliance / Anomaly Review (10K+ transactions):** Built SQL + Excel detection review → **-15% false positives**
+---
 
-## Core Skills
-- **SQL**, **Python** (Pandas, NumPy, Matplotlib, scikit-learn), **R**, STATA  
-- **ETL / Data Pipeline**, **Data Cleaning**, **Data Quality (QA/QC)**, **UAT Validation**, **A/B Testing**, Regression, Time Series Forecasting  
-- **Power BI**, **Tableau**, Excel (Pivot Tables)  
-- MongoDB, AWS (EC2), Hadoop, Jupyter Notebook, VS Code
+## Tech Stack
+- **Languages:** SQL, Python (Pandas, NumPy, scikit-learn), R, STATA  
+- **Analytics:** ETL, Data Cleaning, Data Quality, UAT Validation, A/B Testing, Regression, Forecasting / Time Series  
+- **BI / Visualization:** Power BI, Tableau  
+- **Data / Tools:** MongoDB, AWS (EC2), Excel (Pivot Tables / Lookups), Jupyter, VS Code
+
+---
+
+## Experience Highlights
+Delivered measurable impact across **finance and e-commerce analytics** by building **SQL + Python (Pandas) pipelines** and **Power BI/Tableau dashboards** that improved reporting reliability and reduced manual effort.  
+Processed **200K+ procurement/shipment records** to improve efficiency (**-20% processing time**, **10+ hrs/week saved**) and standardized **10K+ weekly ERP sales records across 300+ SKUs** (**3+ hrs/week saved**).  
+Implemented **QA/QC + UAT validation** to reduce mapping/reporting errors by **~15%**, and supported transaction review workflows that lowered false positives by **~15%**.
+
+---
 
 ## Education
-- **M.S. Applied Data Science**, USC (Expected May 2026)  
-- **M.S. Applied Economics & Econometrics**  
-- **B.A. Quantitative Economics**, UC Irvine
-- **B.A. Art**, UC Irvine
+- **M.S. in Applied Data Science**, University of Southern California (Expected May 2026)  
+  **Related Courses:** *Data Management, Data Visualization, Machine Learning, Data Mining*  
+
+
+- **M.S. in Applied Economics & Econometrics**, University of Southern California
+  **Related Courses:** *Economic Consulting, Modeling and Operations Research, Practice of Econometrics, Applied Trade Policy*  
+
+- **B.A. in Quantitative Economics**, University of California, Irvine
+  **Related Courses:** *Linear Algebra, Probability and Statistics, Money and Banking, Econ Asymmetric Info*
+  
+- **B.A. in Art**, University of California, Irvine
+  **Related Courses:** *Advanced Painting, Sculpture, Media Art & Tech, History of Contemporary Art*
+  
+---
+
+## Current Focus 
+- Interested in **Data Analyst, Business Analyst, Financial Analyst** or any related roles supporting finance, e-commerce, and revenue performance teams.
+
+---
 
 ## Contact
-If you’re hiring for **Data Analyst / Business Analyst / Ops Analytics / Revenue Analytics**, feel free to reach out.  
-📩 bella.yuxiaoliu@gmail.com
+- **Email:** bella.yuxiaoliu@gmail.com  
+- **LinkedIn:** *[(paste your LinkedIn URL here)](https://www.linkedin.com/in/yuxiao-liu-05b814183/)*
