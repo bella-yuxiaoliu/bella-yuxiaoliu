@@ -8,10 +8,10 @@ Outside of work: tennis🎾 and arts🎨.
 ---
 
 ## Tech Stack
-**Languages:** SQL, Python (Pandas, NumPy, scikit-learn), R, STATA  
-**Analytics:** ETL, Data Cleaning, Data Quality, UAT Validation, A/B Testing, Regression, Forecasting / Time Series  
-**BI / Visualization:** Power BI, Tableau  
-**Data / Tools:** MongoDB, AWS (EC2), Excel (Pivot Tables / Lookups), Jupyter, VS Code
+ **Languages:** SQL, Python (Pandas, NumPy, scikit-learn), R, STATA  
+ **Analytics:** ETL, Data Cleaning, Data Quality, UAT Validation, A/B Testing, Regression, Forecasting / Time Series  
+ **BI / Visualization:** Power BI, Tableau  
+ **Data / Tools:** MongoDB, AWS (EC2), Excel (Pivot Tables / Lookups), Jupyter, VS Code
 
 ---
 
