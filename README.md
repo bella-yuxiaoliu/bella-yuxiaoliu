@@ -2,7 +2,7 @@
 
 ## About Me
 Data Analyst focused on **finance and e-commerce analytics**, building **SQL + Python** pipelines and **BI dashboards** for **revenue reporting, KPI tracking, and automation**.  
-**M.S. in Applied Data Science candidate at USC (Expected May 2026)**, with strengths in **ETL, data quality, UAT validation, and experiment-driven insights**.  
+M.S. in Applied Data Science candidate at USC (Expected May 2026), with strengths in **ETL, data quality, UAT validation, and experiment-driven insights**.  
 Outside of work: tennis🎾 and arts🎨.
 
 ---
@@ -18,7 +18,6 @@ Outside of work: tennis🎾 and arts🎨.
 ## Experience Highlights
 Delivered measurable impact across **finance and e-commerce analytics** by building **SQL + Python (Pandas) pipelines** and **Power BI/Tableau dashboards** that improved reporting reliability and reduced manual effort.  
 Processed **200K+ procurement/shipment records** to improve efficiency (**-20% processing time**, **10+ hrs/week saved**) and standardized **10K+ weekly ERP sales records across 300+ SKUs** (**3+ hrs/week saved**).  
-Implemented **QA/QC + UAT validation** to reduce mapping/reporting errors by **~15%**, and supported transaction review workflows that lowered false positives by **~15%**.
 
 ---
 
