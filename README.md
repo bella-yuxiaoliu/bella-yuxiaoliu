@@ -1,5 +1,4 @@
-## Hi there 👋
-# Yuxiao Liu | Data Analyst / Business Analyst
+# Yuxiao (Bella) Liu | Data Analyst
 
 ## What I do
 I build **SQL + Python** analytics pipelines and **BI dashboards** that turn messy operational data into **reliable reporting, automation, and measurable business impact**.  
