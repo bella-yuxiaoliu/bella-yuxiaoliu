@@ -8,10 +8,10 @@ Outside of work: tennis🎾 and arts🎨.
 ---
 
 ## Tech Stack
-- **Languages:** SQL, Python (Pandas, NumPy, scikit-learn), R, STATA  
-- **Analytics:** ETL, Data Cleaning, Data Quality, UAT Validation, A/B Testing, Regression, Forecasting / Time Series  
-- **BI / Visualization:** Power BI, Tableau  
-- **Data / Tools:** MongoDB, AWS (EC2), Excel (Pivot Tables / Lookups), Jupyter, VS Code
+**Languages:** SQL, Python (Pandas, NumPy, scikit-learn), R, STATA  
+**Analytics:** ETL, Data Cleaning, Data Quality, UAT Validation, A/B Testing, Regression, Forecasting / Time Series  
+**BI / Visualization:** Power BI, Tableau  
+**Data / Tools:** MongoDB, AWS (EC2), Excel (Pivot Tables / Lookups), Jupyter, VS Code
 
 ---
 
@@ -22,7 +22,7 @@ Processed **200K+ procurement/shipment records** to improve efficiency (10+ hrs/
 ---
 
 ## Education
-🎓**M.S. in Applied Data Science**, University of Southern California
+🎓**M.S. in Applied Data Science**, University of Southern California  
   *Related Courses:* Data Management, Data Visualization, Machine Learning, Data Mining
 
 🎓**M.S. in Applied Economics & Econometrics**, University of Southern California  
