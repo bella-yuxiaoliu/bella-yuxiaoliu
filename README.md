@@ -22,18 +22,17 @@ Processed **200K+ procurement/shipment records** to improve efficiency (**-20% p
 ---
 
 ## Education
-- **M.S. in Applied Data Science**, University of Southern California (Expected May 2026)
-- **Related Courses:** *Data Management, Data Visualization, Machine Learning, Data Mining*  
+- **M.S. in Applied Data Science**, University of Southern California (Expected May 2026)  
+  *Related Courses:* Data Management, Data Visualization, Machine Learning, Data Mining
 
+- **M.S. in Applied Economics & Econometrics**, University of Southern California  
+  *Related Courses:* Economic Consulting, Modeling and Operations Research, Practice of Econometrics, Applied Trade Policy
 
-- **M.S. in Applied Economics & Econometrics**, University of Southern California
-- **Related Courses:** *Economic Consulting, Modeling and Operations Research, Practice of Econometrics, Applied Trade Policy*  
+- **B.A. in Quantitative Economics**, University of California, Irvine  
+  *Related Courses:* Linear Algebra, Probability and Statistics, Money and Banking, Economics of Asymmetric Information
 
-- **B.A. in Quantitative Economics**, University of California, Irvine
-- **Related Courses:** *Linear Algebra, Probability and Statistics, Money and Banking, Econ Asymmetric Info*
-  
-- **B.A. in Art**, University of California, Irvine
-- **Related Courses:** *Advanced Painting, Sculpture, Media Art & Tech, History of Contemporary Art*
+- **B.A. in Art**, University of California, Irvine  
+  *Related Courses:* Advanced Painting, Sculpture, Media Art & Tech, History of Contemporary Art
   
 ---
 
