@@ -1,8 +1,8 @@
-# Yuxiao Liu | Data Analyst 
+# Yuxiao(Bella) Liu | Data Analyst 
 
 ## About Me
-Data Analyst focused on **finance and e-commerce analytics**, building **SQL + Python** pipelines and **BI dashboards** for revenue reporting, KPI tracking, and automation.  
-M.S. in Applied Data Science candidate at USC (Expected May 2026), with strengths in **ETL, data quality, UAT validation, and experiment-driven insights**.  
+Data Analyst focused on **business, operations, and financial analytics**, building **SQL and Python data pipelines**, automated reporting workflows, and **Power BI/Tableau dashboards** to support data-driven decision-making.
+M.S. in Applied Data Science from USC, with strengths in **ETL, data integration, data quality, UAT validation, KPI reporting, and statistical analysis**.  
 Outside of work: tennis🎾 and arts🎨.
 
 ---
@@ -37,7 +37,7 @@ Processed **200K+ procurement/shipment records** to improve efficiency (10+ hrs/
 ---
 
 ## Current Focus 
-Interested in **Data Analyst, Business Analyst, Financial Analyst** or any related roles supporting finance, e-commerce, and revenue performance teams.
+Interested in **Data Analyst, Business Analyst, Financial Analyst, Operation Analyst** or any related roles supporting finance, e-commerce, and revenue performance teams.
 
 ---
 
