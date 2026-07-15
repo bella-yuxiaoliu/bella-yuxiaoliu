@@ -1,4 +1,4 @@
-# Yuxiao(Bella) Liu | Data Analyst 
+# Yuxiao Liu | Data Analyst 
 
 ## About Me
 Data Analyst focused on **business, operations, and financial analytics**, building **SQL and Python data pipelines**, automated reporting workflows, and **Power BI/Tableau dashboards** to support data-driven decision-making.
